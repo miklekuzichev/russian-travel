@@ -3,7 +3,6 @@
 .intro__title {
     max-width: 690px;
     /*min-height: 58px;*/
-    height: 100%;
     margin: 0;
     text-align: left; /* выравниваем текст по горизонтали внутри блока */
     font-size: 54px;
