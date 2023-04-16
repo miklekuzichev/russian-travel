@@ -8,3 +8,18 @@
     margin-top: 33px;
     list-style: none;
 }
+
+@media screen and (max-width: 950px) {
+
+    .intro__list {
+        max-width: 720px;
+    }
+}
+
+@media screen and (max-width: 750px) {
+ 
+    .intro__list {
+        max-width: 288px;
+        margin-top: 34px;
+    }
+}

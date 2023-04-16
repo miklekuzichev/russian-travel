@@ -4,3 +4,15 @@
     margin: 0;
     margin-bottom: 24px;
   }
+
+@media screen and (max-width: 750px) {
+
+.footer__links {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto;
+  gap: 32px;
+  margin-bottom: 0;
+  }
+}
+    

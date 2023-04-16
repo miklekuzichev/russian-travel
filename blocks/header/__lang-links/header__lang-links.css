@@ -5,3 +5,12 @@
     margin-top: 46px;
     margin-bottom: 6px;
   }
+
+  @media screen and (max-width: 750px) {
+ 
+    .header__lang-links {  
+        margin-top: 30px;
+        margin-bottom: 8px;
+    }
+}
+    

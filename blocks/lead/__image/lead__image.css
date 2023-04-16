@@ -9,4 +9,28 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-  }
+}
+
+@media screen and (max-width: 1184px) {
+
+    .lead__image {
+        min-height: 580px;
+        margin-top: 56px;
+    }  
+}
+
+@media screen and (max-width: 950px) {
+
+    .lead__image {
+        min-height: 480px;
+        margin-top: 56px;
+    }
+}
+
+@media screen and (max-width: 750px) {
+
+    .lead__image {
+        min-height: 200px;
+        margin-top: 40px;
+    }
+}

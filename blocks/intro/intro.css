@@ -7,3 +7,26 @@
     margin: 92px auto 0 auto;
   }
   
+@media screen and (max-width: 1184px) {
+  
+    .intro {
+        max-width: 928px;
+    }
+}
+
+@media screen and (max-width: 950px) {
+  
+    .intro {
+        max-width: 720px;
+        margin-top: 88px;
+    }
+}
+
+@media screen and (max-width: 750px) {
+ 
+    .intro {
+        max-width: 288px;
+        margin-top: 64px;
+    }
+}
+    

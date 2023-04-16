@@ -7,3 +7,39 @@
   flex-direction: row;
   justify-content: space-between;
 }
+
+@media screen and (max-width: 1280px) {
+
+  .header {
+    margin-left: 48px;
+    margin-right: 48px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+
+  .header {
+    max-width: 928px;
+    margin-left: 48px;
+    margin-right: 48px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+
+  .header {
+    max-width: 720px;
+    margin-left: 24px;
+    margin-right: 24px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+
+  .header {
+    max-width: 288px;
+    /*margin-top: 16px;*/
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

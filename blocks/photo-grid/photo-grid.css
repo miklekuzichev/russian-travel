@@ -11,3 +11,34 @@
     box-sizing: border-box;
     gap: 16px;
 }
+
+@media screen and (max-width: 1184px) {
+
+    .photo-grid {
+        max-width: 928px;
+        min-height: 942px;
+        grid-template-columns: repeat(3, 300px);
+        gap: 14px;
+    }
+}
+
+@media screen and (max-width: 950px) {
+
+    .photo-grid {
+        max-width: 720px;
+        min-height: 1664px;
+        grid-template-columns: repeat(2, 352px);
+        gap: 16px;
+    }
+}
+
+@media screen and (max-width: 740px) {
+  
+    .photo-grid {
+      margin-top: 64px;
+      max-width: 288px;
+      min-height: 2724px;
+      grid-template-columns: repeat(1, 288px);
+      gap: 12px;
+    }
+}

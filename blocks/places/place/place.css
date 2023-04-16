@@ -10,3 +10,31 @@
     gap: 48px 40px;
     box-sizing: content-box;
   }
+
+  @media screen and (max-width: 1024px) {
+
+    .place {
+      grid-template-columns: 440px 456px;/*repeat(2, 1fr);*/
+      gap: 48px 32px;
+    }
+}
+
+@media screen and (max-width: 950px) {
+ 
+    .place {
+        grid-template-columns: 340px 352px;/*repeat(2, 1fr);*/
+        gap: 48px 28px;
+        margin: 0 auto 72px auto;
+    }
+}
+
+@media screen and (max-width: 740px) {
+
+    .place {
+        margin-bottom: 50px;
+        grid-template-columns: 320px;
+        grid-template-rows: auto;
+        gap: 32px;
+    }
+}
+  
