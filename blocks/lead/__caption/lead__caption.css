@@ -1,0 +1,15 @@
+/* CSS стили для lead__caption */
+
+.lead__caption {
+    width: 158px;
+    height: 14px;
+    margin: 0;
+    margin-top: 8px;
+    text-align: center; /* выравниваем текст по горизонтали внутри блока */
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: white;
+  }

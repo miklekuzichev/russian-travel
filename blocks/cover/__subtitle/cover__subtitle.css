@@ -1,0 +1,15 @@
+/* CSS стили для cover__subtitle */
+
+.cover__subtitle {
+    max-width: 360px;
+    height: 66px;
+    margin: 0 auto;
+    text-align: center; 
+    font-style: normal;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    color: white;
+    position: relative;
+    z-index: 3;
+  }

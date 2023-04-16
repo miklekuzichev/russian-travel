@@ -1,0 +1,11 @@
+/* CSS стили для intro__list-item */
+
+.intro__list-item {
+    margin: 0;
+    text-align: left; /* выравниваем текст по горизонтали внутри блока */
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18px;
+    color: white;
+  }
+  

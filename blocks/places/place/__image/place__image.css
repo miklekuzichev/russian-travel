@@ -1,0 +1,7 @@
+/* CSS стили для place__image */
+
+.place__image {
+    max-width: 460px;
+    min-height: 460px;
+    margin: 0; 
+  }

@@ -1,0 +1,13 @@
+/* CSS стили для lead__subtitle */
+
+.lead__subtitle {
+    max-width: 640px;
+    min-height: 72px;
+    margin: 0;
+    margin: 32px auto 0 auto;
+    text-align: center; /* выравниваем текст по горизонтали внутри блока */
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 36px;
+    color: white;
+  }

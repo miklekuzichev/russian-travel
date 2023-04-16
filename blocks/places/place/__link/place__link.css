@@ -1,0 +1,19 @@
+/* CSS стили для place__link */
+
+.place__link {
+    width: 100%;
+    height: 22px;
+    margin: 0;
+    margin-top: 12px;
+    text-align: left; /* выравниваем текст по горизонтали внутри блока */
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    color: white;
+  }
+
+  .place__link:hover {
+    opacity: 0.8;
+    transition: 0.3s linear;
+  }
+  

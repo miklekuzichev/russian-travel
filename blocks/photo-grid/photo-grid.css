@@ -1,0 +1,13 @@
+/* CSS стили для photo-grid */
+
+.photo-grid {
+    max-width: 1184px;
+    min-height: 671px;
+    margin: 92px auto 0 auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    /*grid-template-columns: repeat(auto-fit, minmax(248px, 1fr));*/
+    grid-template-rows: auto;/*repeat(3, 213px);*/
+    box-sizing: border-box;
+    gap: 16px;
+}

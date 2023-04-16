@@ -1,0 +1,9 @@
+/* CSS стили для cover */
+
+.cover {
+    max-width: 1184px;
+    height: 100%;
+    margin: 0;
+    margin: 12px auto 92px auto;
+    position: relative;
+  }

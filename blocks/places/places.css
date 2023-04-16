@@ -1,0 +1,9 @@
+/* CSS стили для places */
+
+.places {
+    max-width: 984px;
+    height: 100%;
+    margin: 0;
+    margin: 92px auto 0 auto;
+  }
+  

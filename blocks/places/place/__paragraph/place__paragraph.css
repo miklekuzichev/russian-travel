@@ -1,0 +1,22 @@
+/* CSS стили для place__paragraph */
+
+.place__paragraph {
+    width: 100%;
+    margin: 0;
+    text-align: start; /* выравниваем текст по горизонтали внутри блока */
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29.34px;
+    color: white;
+  }
+
+  .place__paragraph:nth-child(even) {
+    width: 100%;
+    margin: 0;
+    margin-top: 26px;
+    text-align: start; 
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29.34px;
+    color: white;
+  }

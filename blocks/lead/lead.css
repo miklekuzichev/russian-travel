@@ -1,0 +1,8 @@
+/* CSS стили для lead */
+
+.lead {
+    max-width: 984px;
+    min-height: 1005px;
+    margin: 0;
+    margin: 56px auto 0 auto;
+  }

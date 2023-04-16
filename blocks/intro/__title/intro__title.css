@@ -1,0 +1,12 @@
+/* CSS стили для intro__title */
+
+.intro__title {
+    max-width: 690px;
+    min-height: 58px;
+    margin: 0;
+    text-align: left; /* выравниваем текст по горизонтали внутри блока */
+    font-size: 54px;
+    font-weight: 900;
+    line-height: 58px;
+    color: white;
+  }

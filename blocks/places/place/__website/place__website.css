@@ -1,0 +1,9 @@
+/* CSS стили для place__website */
+
+.place__website {
+    width: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  

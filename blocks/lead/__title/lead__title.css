@@ -1,0 +1,13 @@
+/* CSS стили для lead__title */
+
+.lead__title {
+    max-width: 720px;
+    min-height: 200px;
+    margin: 0 auto;
+    text-align: center; /* выравниваем текст по горизонтали внутри блока */
+    font-size: 96px;
+    font-weight: 900;
+    line-height: 100px;
+    color: white;
+  }
+

@@ -1,0 +1,11 @@
+/* CSS стили для page */
+
+.page {
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0 auto;
+  /*font-family: 'Helvetica Neue', Arial, sans-serif;*/
+  background-color: #2A2C2F;
+  font-family: 'Inter';
+}
+

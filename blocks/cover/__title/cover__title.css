@@ -1,0 +1,15 @@
+/* CSS стили для cover__title */
+
+.cover__title {
+    max-width: 560px;
+    height: 152px;
+    margin: 245px auto 32px auto;
+    text-align: center; 
+    font-style: normal;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 76px;
+    color: white;
+    position: relative;
+    z-index: 2;
+  }
