@@ -1,14 +1,9 @@
 /* CSS стили для lead__image */
 
 .lead__image {
-    /*width: 984px;*/
-    min-height: 615px;
+    max-width: 100%;
     margin: 0;
     margin: 64px auto 0 auto;
-    background-image: url(../../../images/lead-polka.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
 }
 
 @media screen and (max-width: 1184px) {

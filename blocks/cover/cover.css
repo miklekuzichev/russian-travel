@@ -4,7 +4,7 @@
     max-width: 1184px;
     height: 100%;
     margin: 0;
-    margin: 12px auto 92px auto;
+    margin: 92px auto;
     position: relative;
   }
 
@@ -12,7 +12,7 @@
   
     .cover {
         max-width: 768px;
-        margin: 10px auto 88px auto;
+        margin: 90px auto 88px auto;
     } 
 }
 
@@ -20,7 +20,7 @@
 
     .cover {
         max-width: 320px;
-        margin: 16px auto 64px auto;
+        margin: 66px auto 64px auto;
     }
 }
     
