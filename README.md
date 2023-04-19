@@ -1,4 +1,4 @@
-# Проектная работа для Яндекс.Практикум - "Путешествие по России"
+# Проектная работа для [Яндекс.Практикум](https://practicum.yandex.ru/) - "Путешествие по России"
 
 ### О проекте
 
@@ -20,5 +20,5 @@
 * Добавить анимацию на странице посредством CSS
 * Применение JS на странице
 
-Ссылка на проект [gh-pages](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+Ссылка на проект [gh-pages](https://miklekuzichev.github.io/russian-travel/index.html)
 
