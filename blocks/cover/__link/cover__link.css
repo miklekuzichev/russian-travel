@@ -28,7 +28,7 @@
     z-index: 1;
 }
   
-.cover__link:hover {
+.cover__link:hover::before {
     opacity: 0.8;
     transition: 0.3s linear;
 }
