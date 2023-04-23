@@ -1,7 +1,7 @@
-/* CSS стили для footer__copyright */
+/* CSS стили для footer__copyright-link */
 
-.footer__copyright {
-    max-width: 186px;
+.footer__copyright-link {
+    width: 100%;
     margin: 0;
     margin-top: 2px;
     margin-bottom: 24px;
@@ -11,11 +11,16 @@
     font-weight: 400;
     line-height: 16px;
     color: white;
+    text-decoration: none;
+  }
+
+  .footer__copyright-link:hover {
+    opacity: 0.8;
+    transition: 0.3s linear;
   }
 
 @media screen and (max-width: 750px) {
-
-  .footer__copyright {
+  .footer__copyright-link {
     line-height: 14px;
     text-align: left;
     margin-top: 0;
